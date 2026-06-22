@@ -95,4 +95,5 @@ volumes:
   gpu-cache:
     driver: local
   # ollama-data:
-  #   driver: local
+  #   driver: local. - name: Setup Ruby, JRuby and TruffleRuby
+  uses: ruby/setup-ruby@v1.314.0
