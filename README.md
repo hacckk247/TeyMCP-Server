@@ -3,7 +3,7 @@
 **The One MCP to Rule Them All** - 统一管理和调用所有MCP服务器的终极聚合器
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Python  3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-green.svg)](https://fastapi.tiangolo.com)
 [![MCP](https://img.shields.io/badge/MCP-1.1+-purple.svg)](https://modelcontextprotocol.io)
 
